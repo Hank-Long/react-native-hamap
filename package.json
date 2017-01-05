@@ -1,0 +1,25 @@
+{
+  "name": "react-native-hamap",
+  "version": "1.0.0",
+  "description": "React-Native AMap locate for iOS and Android ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hank-Long/react-native-hamap.git"
+  },
+  "keywords": [
+    "amap",
+    "map",
+    "locate",
+    "location"
+  ],
+  "author": "Hank",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hank-Long/react-native-hamap/issues"
+  },
+  "homepage": "https://github.com/Hank-Long/react-native-hamap#readme"
+}
