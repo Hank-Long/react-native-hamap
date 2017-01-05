@@ -1,0 +1,10 @@
+# Intellij
+*.iml
+.idea/workspace.xml
+
+# Keystore files
+*.jks
+
+node_modules
+/android/build
+/android/react-native-hamap.iml
