@@ -2,8 +2,13 @@
 React-Native AMap locate for Android and iOS
 
 
-## How to install 
-npm install react-native-hamap --save
+# How to install 
+### npm install react-native-hamap --save
+
+
+
+
+
 
 
 ### Linking Android with Gradle
@@ -163,6 +168,9 @@ values:
 
 
 
-### @author Hank
+## Authors
+
+- [Hank]
+- [Zhuang Haipeng]
 
   
