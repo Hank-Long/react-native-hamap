@@ -67,7 +67,8 @@ React-Native AMap locate for Android and iOS
 ### Linking iOS
 
 - Link `RCTHaMap` library from your `node_modules/react-native-hamap/ios` folder like react-native's 
-[Linking Libraries iOS Guidance], Note: _Don't forget to add it to "Build Phases" of your target project_.
+[Linking Libraries iOS Guidance]
+Note: _Don't forget to add it to "Build Phases" of your target project_.
 
 - Add the following libraries to your "Link Binary with Libraries":
 
@@ -110,6 +111,8 @@ React-Native AMap locate for Android and iOS
     
 ## How to use
 This package has only two methods: 
+
+### import * as AMapTools from 'react-native-hamap'
 
 ### registerService(key)
 You can call this function when the application is lanuched,  but nothing will be wrong if you call it more than once.
